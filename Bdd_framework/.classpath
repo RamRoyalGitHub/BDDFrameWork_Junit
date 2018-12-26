@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_121"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/venkata.pasupuleti/Downloads/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkata.pasupuleti/Downloads/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkata.pasupuleti/Downloads/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkata.pasupuleti/Downloads/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkata.pasupuleti/Downloads/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkata.pasupuleti/Downloads/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkata.pasupuleti/Downloads/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkata.pasupuleti/Downloads/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkata.pasupuleti/Downloads/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkata.pasupuleti/Downloads/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkata.pasupuleti/Downloads/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkata.pasupuleti/Downloads/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkata.pasupuleti/Downloads/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkata.pasupuleti/Downloads/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkata.pasupuleti/Downloads/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkata.pasupuleti/Downloads/file-management-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkata.pasupuleti/Downloads/extentreports-3.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkata.pasupuleti/Downloads/jsoup-1.9.2.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
